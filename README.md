@@ -19,9 +19,12 @@
 
 #### 1）用户注册
 
-![./img/live2.jpg]()
+
 
 #### 2）用户登录
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live2.jpg)
+
 #### 3）获取用户信息
 #### 4）分别更改用户姓名，年龄，头像，城市等信息
 #### 5）获取直播房间列表
