@@ -40,7 +40,7 @@
 
 #### 7）直播聊天
 
-![avatar](https://github.com/zkbqhuang/live/blob/main/img/live4.jpg)
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live5.jpg)
 
 #### 8）关注主播
 #### 9）打赏主播(送礼物)
