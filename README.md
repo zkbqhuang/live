@@ -19,20 +19,40 @@
 
 #### 1）用户注册
 
-
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live3.jpg)
 
 #### 2）用户登录
 
 ![avatar](https://github.com/zkbqhuang/live/blob/main/img/live2.jpg)
 
 #### 3）获取用户信息
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live6.jpg)
+
 #### 4）分别更改用户姓名，年龄，头像，城市等信息
 #### 5）获取直播房间列表
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live1.jpg)
+
 #### 6）直播观看(核心)
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live4.jpg)
+
 #### 7）直播聊天
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live4.jpg)
+
 #### 8）关注主播
 #### 9）打赏主播(送礼物)
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live7.jpg)
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live8.jpg)
+
 #### 10）金币充值
+
+![avatar](https://github.com/zkbqhuang/live/blob/main/img/live9.jpg)
+
 #### 11）等级限制聊天
 #### 12）创建直播间
 #### 13）积分经验体系
